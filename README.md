@@ -1,1 +1,1 @@
-# Qalyn-Mal
+# QalynMal

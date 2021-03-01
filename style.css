@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://image.winudf.com/v2/image/Y29tLmthbGF1bHltc2hvd2t6LkthbGF1bHltX3NjcmVlbl80XzE1MjIyOTc3MzZfMDUy/screen-4.jpg?fakeurl=1&type=.jpg");
+    box-sizing: border-box;
+    width: 100%;
+}
+.checkbox-lg .custom-control-label::before,
+.checkbox-lg .custom-control-label::after {
+  top: .8rem;
+  width: 1.55rem;
+  height: 1.55rem;
+}
+
+.checkbox-lg .custom-control-label {
+  padding-top: 10px;
+  padding-left: 6px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    padding: 10px;
+    }
